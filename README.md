@@ -4,3 +4,5 @@ Programa turi nuskaityti vartotojo vardą (pvz. Aleksandr) ir atspausdinti "įr�
 
 V0.1 - Eilutės saugomos atskirose kintamuosiuose , pasisveikinimo forma tinka tik vyriškiems vardas
 
+V0.2 - Programa atpažysta standartinę moteriškos giminės galunę "a". Su tokiais vardais sveikinasi atitinkamai. Visais kitais atvejais naudoja vyriškos giminės forma.
+Tokia sistema turi netobulumu, kadangi neteisingai atpažysta netipinius(ne lietuviškus) vardus.Rinkti netinkančių vardų duomenų bazę būtų neracionalu.Todėl, vardan tikslumo, sekančioje versijoje bus paaukotas UI paprastumas.
