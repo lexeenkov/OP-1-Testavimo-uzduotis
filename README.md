@@ -7,3 +7,5 @@ Tokia sistema turi netobulumu, kadangi neteisingai atpažysta netipinius (ne lie
 Rinkti netinkančių vardų duomenų bazę būtų neracionalu. Todėl, vardan tikslumo, sekančioje versijoje bus paaukota UI paprastumo.
 
 V0.2.1 - Realizuotas tiesioginis lyties patvirtinimas. Naudotojas savo lytį pasirenka pats , taip užtikrinamas tikslus veikimas.
+
+V1.0 - Realizuotas kortelės pločio pasirinkimas. Eilučių kintamųjų skaičius sumažėjo iki 2-ų. 
